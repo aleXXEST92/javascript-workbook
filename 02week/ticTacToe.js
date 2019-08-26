@@ -81,7 +81,7 @@ function ticTacToe(row, column) {
 board[row][column] = playerTurn;
 switchPlayer();
   if (checkForWin()){
-    console.log("Player " + playerTurn + " Wins")
+    console.log("Player " + "Wins")
   };
 
 }
