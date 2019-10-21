@@ -1,6 +1,12 @@
 * {
   box-sizing: border-box;
 } 
+body {
+  background-image: url(./images.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  /* background-position: top; */
+}
 main {
   display: flex;
   justify-content: space-evenly;

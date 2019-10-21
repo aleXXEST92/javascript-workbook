@@ -51,6 +51,7 @@ myCollection.innerHTML = null;
 collection.map(heroes => {
   const li = document.createElement('li')
   li.append(document.createTextNode(heroes.name))
+  li.append()
   myCollection.append(li)
 })
 }

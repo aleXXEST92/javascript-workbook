@@ -1,7 +1,7 @@
 {
-  "name": "marvelapp",
+  "name": "08week",
   "version": "1.0.0",
-  "description": "practiceapp",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,10 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^8.1.0"
-  },
-  "devDependencies": {},
-  "keywords": [
-    "\u001b"
-  ]
+    "lodash": "^4.17.15"
+  }
 }
